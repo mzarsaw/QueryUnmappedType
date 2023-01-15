@@ -1,5 +1,4 @@
 ﻿using BenchmarkDotNet.Attributes;
-using BenchmarkDotNet.Running;
 using Dapper;
 using Microsoft.EntityFrameworkCore;
 using QueryUnmappedTypes.Db;
